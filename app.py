@@ -12,7 +12,7 @@ st.write("Upload iCMD_A segment analysis, Mapping, and KNB1 files to generate th
 
 # --- File Uploaders ---
 uploaded_analysis = st.file_uploader("Upload iCMD_A segment analysis.xlsx", type=["xlsx"])
-uploaded_mapping = st.file_uploader("Upload iCMD_F2SQ_2026_MDM Business Partner S4_Template_CMD_mapping_RBLA.xlsx", type=["xlsx"])
+uploaded_mapping = st.file_uploader("Upload iCMD_F2SQ_2026_MDM Business Partner S4_Template_CMD_mapping_XXXX.xlsx", type=["xlsx"])
 uploaded_knb1 = st.file_uploader("Upload KNB1.xlsx", type=["xlsx"])
 
 # --- Helper Functions ---
